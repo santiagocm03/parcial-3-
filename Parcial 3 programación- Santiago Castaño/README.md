@@ -1,0 +1,4 @@
+En este proyecto se tomo una base de datos de la pagina de datos abiertos colombia, este corresponde 
+al numero de personas aspirantes a doctorados en el extranjero desde el año 2010 hasta el año 2016, lo que se buscó fue predecir el numero de aspirantes para el año 2020 por medio de una regresion lineal, la base de datos la puede descargar a travez de el siguiente link:
+https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Aspirantes-Doctorados-Exterior-2010-2016/khmn-hryc
+La ruta en la que descargue el documento debe ser ingresada en el archivo main.py en la linea 13 donde se indica en un comentario.
